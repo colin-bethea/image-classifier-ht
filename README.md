@@ -1,4 +1,4 @@
-# Image Classifier
+# Image Classifier [![Codacy Badge](https://api.codacy.com/project/badge/Grade/54237135413e45b296b66e756c3a47b8)](https://www.codacy.com/manual/colin-bethea/cnnClassifier?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=colin-bethea/cnnClassifier&amp;utm_campaign=Badge_Grade)
 This image classifier -- written in Python, based on Keras + Tensorflow -- is a Convolutional Neural Network.
 When (main.py) is run, the program will train on the given data (training_set) - based on the configuration of:
 - Epochs (#)
